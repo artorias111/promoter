@@ -1,2 +1,2 @@
 # promoter
-Modelling promoters in Drosophila using machine learning
+Predicting promoters in Drosophila using first degree protein structures.
