@@ -1,2 +1,2 @@
 # promoter
-Predicting promoters in Drosophila using first degree protein structures.
+Predicting promoters in prokaryotes using first degree protein structures.
